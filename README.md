@@ -1,10 +1,17 @@
 # Hi 👋 I'm Dinesh
 
-💻 Full Stack Developer passionate about building practical software and learning through real-world projects.
+💻 Full Stack Developer building practical web applications, real-time systems, and backend-driven projects through hands-on learning.
 
-I enjoy developing systems that solve real problems, exploring open-source technologies, and continuously improving my backend and application development skills.
+I enjoy turning ideas into working systems — from live classroom monitoring platforms to workflow-based management applications and dynamic data systems.
 
----
+Currently exploring:
+
+* Real-time application architecture
+* Scalable backend systems
+* Open-source product development
+* Event-driven workflows
+
+🚀 I believe in learning by building real projects.
 
 ## 🚀 Featured Projects
 
